@@ -1,21 +1,17 @@
 {
   "files": {
     "main.css": "/mooseportfolio/static/css/main.ee354f76.css",
-    "main.js": "/mooseportfolio/static/js/main.83de05d9.js",
+    "main.js": "/mooseportfolio/static/js/main.89e09a63.js",
     "static/media/MySelf3.PNG": "/mooseportfolio/static/media/MySelf3.c1addaad5b16b9e48786.PNG",
     "static/media/brownbackground.jpg": "/mooseportfolio/static/media/brownbackground.fc50740b3d469fdae429.jpg",
     "static/media/ChangwooLee-SoftwareEngineer.pdf": "/mooseportfolio/static/media/ChangwooLee-SoftwareEngineer.cb2b271fd82690f8f240.pdf",
     "static/media/MySelf.jpg": "/mooseportfolio/static/media/MySelf.91654017e3c8551ec257.jpg",
-    "static/media/CRUD.jpeg": "/mooseportfolio/static/media/CRUD.73d1d2b1ee725cdb148c.jpeg",
-    "static/media/SignalR.png": "/mooseportfolio/static/media/SignalR.8203aa327ffc3789dcf2.png",
-    "static/media/Sendgrid.png": "/mooseportfolio/static/media/Sendgrid.7555ef92d9b1c727a881.png",
-    "static/media/Pagination.png": "/mooseportfolio/static/media/Pagination.46133e7e897523e4c74f.png",
     "index.html": "/mooseportfolio/index.html",
     "main.ee354f76.css.map": "/mooseportfolio/static/css/main.ee354f76.css.map",
-    "main.83de05d9.js.map": "/mooseportfolio/static/js/main.83de05d9.js.map"
+    "main.89e09a63.js.map": "/mooseportfolio/static/js/main.89e09a63.js.map"
   },
   "entrypoints": [
     "static/css/main.ee354f76.css",
-    "static/js/main.83de05d9.js"
+    "static/js/main.89e09a63.js"
   ]
 }
